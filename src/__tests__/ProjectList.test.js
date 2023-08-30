@@ -1,6 +1,6 @@
 import "@testing-library/jest-dom";
 import { render, screen } from "@testing-library/react";
-import ProjectList from "../components/ProjectList";
+import ProjectList from "../ProjectList";
 
 const projects = [
   {
